@@ -1,4 +1,4 @@
- # Health Inequality Analysis in England
+ # Health Inequality Analysis
 
 ## 📌 Project Overview
 
